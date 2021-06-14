@@ -6,7 +6,7 @@
   <link href="http://jiaxin-ops.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiaxin-ops.github.io/"/>
-  <updated>2021-06-14T06:58:13.719Z</updated>
+  <updated>2021-06-14T16:21:49.847Z</updated>
   <id>http://jiaxin-ops.github.io/</id>
   
   <author>
@@ -17,43 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>INTERSTELLAR</title>
-    <link href="http://jiaxin-ops.github.io/2021/06/14/INTERSTELLAR/"/>
-    <id>http://jiaxin-ops.github.io/2021/06/14/INTERSTELLAR/</id>
-    <published>2021-06-14T06:57:57.000Z</published>
-    <updated>2021-06-14T06:58:13.719Z</updated>
+    <title>老友记</title>
+    <link href="http://jiaxin-ops.github.io/2021/06/14/%E8%80%81%E5%8F%8B%E8%AE%B0/"/>
+    <id>http://jiaxin-ops.github.io/2021/06/14/%E8%80%81%E5%8F%8B%E8%AE%B0/</id>
+    <published>2021-06-14T11:39:30.000Z</published>
+    <updated>2021-06-14T16:21:49.847Z</updated>
     
-    <content type="html"><![CDATA[<p>And that makes me want to follow my heart. Maybe we’ve spent too long trying to figure all this out with theory.</p><p>You’re a scientist, Brand.</p><p>So listen to me…when I say that love isn’t something we invented. It’s…observable, powerful. It has to mean something.</p><p>Love has meaning, yes. Social utility, social bonding, child rearing…</p><p>We love people who have died. Where’s the social utility in that?</p><p>None.</p><p>Maybe it means something more, something we can’t…yet understand. Maybe it’s some evidence, some…artifact of a higher dimension that we can’t consciously perceive. I’m drawn across the universe to someone I haven’t seen in a decade…who I know is probably dead. Love is the one thing we’re capable of perceiving that transcends dimensions of time and space. Maybe we should trust that, even if we can’t understand it yet. All right, Cooper…yes…the tiniest possibility of seeing Wolf again excites me. That doesn’t mean I’m wrong.</p><p>—INTERSTELLAR</p><p>所以我想要跟着我的心走。也许我们花了太多的时间，试着用理论解释一切。</p><p>你是一个科学家，布兰德。</p><p>听我说，我们要明白，爱不是人类发明的东西，它一直存在，而且很强大，它是有意义的。</p><p>爱是有意义的，没错。社会效益、人际交往、繁衍后代……</p><p>我们也爱那些逝去的人，这有什么社会效益？</p><p>没有。</p><p>也许意味着更多，更多我们还无法理解的。也许爱是某种证据，来自更高维度文明而且我们目前无法感知。我风尘仆仆穿越宇宙寻找了一个消失十年的人，我也知道，他可能已经死了。爱是我们唯一能够感知的，超越时空维度的事物。或许我们应该相信它，尽管我们还不能真正地理解它。好吧，库珀，我承认，能见到爱德蒙斯的机会再渺茫我也不放弃。这不意味着我错了。</p><p>——《星际穿越》</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;And that makes me want to follow my heart. Maybe we’ve spent too long trying to figure all this out with theory.&lt;/p&gt;
-&lt;p&gt;You’re a scientis</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://jiaxin-ops.github.io/2021/06/09/hello-world/"/>
-    <id>http://jiaxin-ops.github.io/2021/06/09/hello-world/</id>
-    <published>2021-06-09T09:38:51.607Z</published>
-    <updated>2021-06-09T09:38:51.607Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>时间来到了现在，八月第一天上班与往日并无不同，提早过上了养老“无事忙”的状态，有事焦灼，无事空落。重返童年系列要正式开启，在这样的一天，开启吧。像之前鼓起勇气的第一次，像悄无声息就消失的最后一次？</p><p>老黄没有狗链，但他也不会跨出电脑店门口5米的范围外，现在到了夏天，他就直接一动不动的躺在电脑店的瓷砖地面上蹭冷气，我每回路过电脑店门前，心情就会有一个微妙的提升，因为可以见到老黄啦，暗自说一句“我回来了”，就像老黄从来不离开电脑店是因为要等着小梁一样，明明知道不是，但是还是默默依赖老黄的存在，这样“我回来了”就可以落在实处，有了“听见”的对象。挺好，我从小到大能喊出最大声的就是这句话，放学回家、胡闹玩耍后回家……总之主要出门回家后就会扯着嗓子喊“婆婆，我回来了”高兴的时候非要喊很多很多遍，直到外婆对我的大喊大叫有了不耐烦的反应才罢休，声音是停止了，可是满满溢出的安心与快乐留在空气里，现在人大了，在异乡，对最大声喊出这句话的渴望愈隐秘就愈强烈，于是乎我每天揣着这份被包裹得热腾腾的执念，兴高采烈地去见老黄然后悄咪咪的同他说，我相信他亦能理解一二，毕竟我俩见面的次数多了，他的眼神也越来越柔和，有那种上了年纪便对许多事情有所体谅的淡定祥和，不会在意我唐突的打扰胡乱喊他“老黄”，不会在意我每回一步三回头看他的眼神骚扰，也不会怪我给他拍照拍的一塌糊涂吧。当然老黄可能是一只好脾气的中华田园汪汪， 至今没有见过老黄凶的模样，其他各色各样的神情见得七七八八了，最常见的是懒懒的和懒得理你的眼神，笑得最开心跑得最欢畅的时候是跟着电脑店小哥回家的时刻，电脑店小哥骑着小电动飞啊飞啊飞，老黄“呼哧呼哧”跟着追啊追啊追，纯黑的瞳孔泛啊泛着光芒，我想四肢完全舒展开来的老黄也许一个劲儿冲去了年少时代，夜色醉我啊，可惜呢时间并不客气，大黄变成了老黄，眼里那一点两点零星的光亮在白昼就消失了，明明再无铁链约束着，但是自由仅仅属于那只在醉人夜色中狂奔的少年汪。</p><p><img src="%5B%E8%80%81%E9%BB%841.JPG%5D(https://github.com/jiaxin-ops/blog_picture/blob/main/img/%E8%80%81%E9%BB%841.JPG)" alt="老黄"></p><p>不过老黄请听我说，我并不偏爱你任何一种状态，我公平的期待你的任何一面，上午九点或午后三点的懒洋洋，夜浅七时或夜深十时的活泼都没关系，我只要远远地看见你，就会想大迈步向前冲，冲回从前是清楚明白的不可能，但是留在当下依旧可以大声说“老黄，我回来了！”这样就好了。</p><p> 小黑，当然是全黑的汪汪，一根白毛都不沾，无奈长时间被项圈不科学的拴着，导致血液循环不畅通，脖颈以上的毛发接收不到营养，呈黄棕色（纯属猜测，也许被太阳晒着也不一定）。初见小黑，我觉得他是一只凶巴巴的汪汪，全黑的毛发在阳光下闪着金属质感的光泽，整一个“生人勿进”的模样，我就是生人，他就是勿近，本无缘分。可许多事情不都是这样，本是各自画了一个半圆，忽然之间顺了天意对上了眼神就连成一个圆，谁知道我的手腕上有一天可以套上小黑汪汪链的铁环环，和他一同去散步，一般是傍晚时分开始寻他，再沿着既定的路线走，绕个两三圈再各回各的归属地，通常小黑不爱用汪汪语表达自己的情绪，惯用肢体语言替代，也许沉默容易引起莫名的共鸣，我就非常安静的跟在他身侧，一路上不言不语眼前皆是好风景，去他的地盘看无名的虫群一阵接着一阵飞起来，小黑是不怕的，我对长相尤为古怪的那类会胆怯，其他都可淡然的接受，有时候在旁瞧着会生出羡慕的心思，这种群体式的出行热闹极了，蓬勃生长的生命在夏日热气稍退的时刻聚集狂欢，在一天的末端以快乐作尾，沉浸在自然规律中的生命体验真好，一季即一生又何妨，虫儿们该享受的没放过呢。我知我自己未曾这样尽兴地活在集体中，手脚放不开心理也抗拒，但还是很努力的表现出“活泼开朗”的模样，我知你不知又何妨，该同大家一起的欢乐时刻我笑声不断，远远看上去看起来和虫儿飞一样自然美好吧。</p><p><img src="https://cdn.jsdelivr.net/gh/jiaxin-ops/blog_picture/img/%E5%B0%8F%E9%BB%911.JPG" alt="小黑"></p><p>小黑的领地有的分布在小林子里，林子里抬头就是叶的空，偶然才显露原本天空一丝浅蓝或淡黄，脚下的枯叶落枝时常发出像食薄饼一样清脆的声音，在广州的七八月是叶子落得最甚的时候，因为植物生长的速度过快，新长成的叶子未等到老去的时刻就要急慌慌的给冒头的小嫩伢子腾位置，生命的极速循环往往代表着年轻朝气、生生不息，可底子实质是残酷的，一棵生长茂盛的大树，树底下必然是枯叶成堆的，我想起小时在院子里，看到清洁卫生的老爷爷扫净落叶再将叶子堆积点燃，白烟袅袅上升的时刻，我竟生出一种感动，大抵是懵懂间觉察到这些离去事物的牺牲意味，人和植物都依赖着空气、阳光和水，也算同根同源，一个道理。我与小黑行走其间，应当感恩。</p><p>天晚得很迟，和小黑散步的时光漫长，遇见的人也多，多数师兄常打趣调侃，说师妹，到底你遛小黑还是小黑遛你？我回应始终是互遛，我陪小黑散步不是义务，反过来小黑陪我也是一样的，一人一汪能凑一对成为散步拍档，都是欢喜的自愿。可喜的是随着散步次数的增多，越来越多的小姐姐也加入和小黑散步的队伍，小黑也终于摆脱了“生人勿近”的刻板印象，变成大家喜欢的汪汪，大概和我们有一样的心情吧，有人愿意温柔的靠近，就会想要敞开心扉表达心愿，他开始会表达自己的小情绪，不再是“阴郁”沉闷的样子， 有时候还会调皮捣蛋，当他一意孤行执意要和我去不同的方向的时候，我虽会嘴上埋怨，但是心里还是很开心，有了脾性的小黑汪汪很真实。我可以大胆地怒戳小黑狗头，可以佯装路过又忽然猛地掉头与小黑绕圈圈玩耍，可以和小黑在大门口对峙等着他服软，可以在小黑拉粑粑的时候看到他的蜜汁不好意思憨憨笑，当然我还是顾及他不好意思的小心情，把头别到另一边。还有很有很多值得记录的瞬间，就不一一细数。</p><p>小黑，请别忘记我。我是小梁，白天喂蛋黄、晚上陪散步、总是对你挤眉弄眼的小梁，下次见,还要一起散步，一直一直一直。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;时间来到了现在，八月第一天上班与往日并无不同，提早过上了养老“无事忙”的状态，有事焦灼，无事空落。重返童年系列要正式开启，在这样的一天，开启吧。像之前鼓起勇气的第一次，像悄无声息就消失的最后一次？&lt;/p&gt;
+&lt;p&gt;老黄没有狗链，但他也不会跨出电脑店门口5米的范围外，现在到了夏</summary>
       
     
     
     
+    
+    <category term="老黄与小黑" scheme="http://jiaxin-ops.github.io/tags/%E8%80%81%E9%BB%84%E4%B8%8E%E5%B0%8F%E9%BB%91/"/>
     
   </entry>
   
